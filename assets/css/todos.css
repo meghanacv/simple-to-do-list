@@ -1,6 +1,6 @@
 body {
 	font-family: Roboto;
-	background-image: url("https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80.png");
+	background-image: url("https://images.unsplash.com/photo-1539552891477-e08e54fbfee4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
 	background-size: cover;
 	background-position: top;
 }
@@ -13,7 +13,7 @@ ul {
 
 
 h1 {
-	background: #2980b9;
+	background: #f59e42;
 	color: white;
 	margin: 0;
 	padding: 10px 20px;
